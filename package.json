@@ -1,0 +1,31 @@
+{
+  "name": "loxone-wss-node-api",
+  "version": "0.4.5",
+  "description": "WebSocket Secure Loxone™ API",
+  "main": "lib/API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angeschossen/loxone-wss-node-api.git"
+  },
+  "keywords": [
+    "Loxone",
+    "API",
+    "WebSocket"
+  ],
+  "author": "David <admin@incredibleplugins.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Angeschossen/loxone-wss-node-api/issues"
+  },
+  "homepage": "https://github.com/Angeschossen/loxone-wss-node-api#readme",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  },
+  "engines": {
+    "node": ">=4.2.6"
+  }
+}
