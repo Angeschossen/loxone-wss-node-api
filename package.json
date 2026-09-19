@@ -4,7 +4,7 @@
   "description": "WebSocket Secure Loxone™ API",
   "main": "lib/API.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,6 @@
     "websocket": "^1.0.31"
   },
   "engines": {
-    "node": ">=4.2.6"
+    "node": ">=22.0.0"
   }
 }
